@@ -1,0 +1,97 @@
+title: Tensions on the Korean peninsual since 1953
+subhead: 
+
+[tabs]
+  image: korea_1.png
+  props.name: Mao
+  props.title: July 27, 1953
+  date.label: 
+  date.start: 1953
+  date.end: 1968 
+  status: Truce
+  props.description: South Korea and North Korea signed a truce after three years of war on July 27, 1953, but it was never ratified by a formal peace treaty. Sporadic violence has come close to plunging the peninsula back into full-scale conflict on numerous occasions
+
+  image: zhou-enlai.png
+  props.name: Zhou
+  props.title: Zhou Enlai
+  props.chinese: 周恩来
+  date.label: 1949 - 1976
+  date.start: 1967
+  date.end: 1976
+  status: Premier
+  props.description: North Korean artillery units fire on South Korean vessel Dangpo in the Yellow Sea. Ship sinks, killing 39 of 70 crew
+
+  image: hua-guofeng.png
+  props.name: Hua
+  props.title: Hua Guofeng
+  props.chinese: 华国锋
+  date.label: 1976 - 1981
+  date.start: 1976
+  date.end: 1981
+  status: Chairman of the CPC
+  props.description: Hand-picked by Mao to succeed him. Embraced the "two whatevers" policy, refering to an embrace of whatever Mao had adopted.
+
+  image: hu-yaobang.png
+  props.name: Hu
+  props.title: Hu Yaobang
+  props.chinese: 胡耀邦
+  date.label: 1981 - 1987
+  date.start: 1981
+  date.end: 1987
+  status: Chairman of the CPC, then General Secretary
+  props.description: Backed by Deng Xiaoping as a pragmatist who could help steer the country away from discredited Maoist ideology. Forced to resign in 1987 after weeks of student protests. Following his death in 1989, protesters gathered in Tiananmen square to demand his political rehabilitation.
+
+  image: zhao-ziyang.png
+  props.name: Zhao
+  props.title: Zhao Ziyang
+  props.chinese: 赵紫阳
+  date.label: 1987 - 1989
+  date.start: 1987
+  date.end: 1989
+  status: General Secretary
+  props.description: Pragmatic reformist who favoured loosening government controls. Advocated a moderate response to protesters in 1989 and was dismissed from his post after after refusing to support the June 4th crackdown. Remained under house arrest until his death.
+  
+  image: deng-xiaoping.png
+  props.name: Deng
+  props.title: Deng Xiaoping
+  props.chinese: 邓小平
+  date.label: 1978 - 1989
+  date.start: 1978
+  date.end: 1989
+  status: Reformist era leader
+  props.description: Launched and pushed forward China's far-reaching economic reforms through the 1980s. Famously said: “it doesn’t matter if a cat is black or white, as long as it catches mice.” Remained the most powerful leader in 1989 when troops opened fire on demonstrators in Tiananmen square.
+
+  image: jiang-zemin.png
+  props.name: Jiang
+  props.title: Jiang Zemin
+  props.chinese: 江泽民
+  date.label: 1989 - 2002
+  date.start: 1989
+  date.end: 2002
+  status: General Secretary
+  props.description: Steered China into membership of the World Trade Organization, oversaw Hong Kong's handover and saw Beijing secure the 2008 Olympics. Continued Deng's push for economic liberalisation, but criticised by rights advocates for supressing political dissent.
+
+  image: hu-jintao.png
+  props.name: Hu
+  props.title: Hu Jintao
+  props.chinese: 胡锦涛
+  date.label: 2002 - 2012
+  date.start: 2002
+  date.end: 2012
+  status: General Secretary
+  props.description: Maintained an unbending political system while China overtook Japan as the world's second largest economy, Beijing hosted the Olympic Games where Chinese athletes won the most gold medals, and the nation became the third country to send a man into space.
+
+  image: xi-jinping.png
+  props.name:  Xi 
+  props.title: Xi Jinping
+  props.chinese: 习近平
+  date.label: 2012 -
+  date.start: 2012
+  date.end: 2018
+  status: General Secretary
+  props.description: Launched a much-publicised drive against corruption after coming to power. Seen as a "charismatic" strongman while overseeing a tightening of press restrictions and a crackdown on human rights defenders.
+[]
+sources: Sources: China media / Britannica
+lastUpdate.key: Last update:
+lastUpdate.value: 10/16/2017 15:20:00
+lang: en

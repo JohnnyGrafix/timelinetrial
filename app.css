@@ -1,0 +1,114 @@
+body {
+  color : #231f20; 
+}
+
+header {
+  margin-bottom: 40px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0px;
+  margin: auto;
+  margin-bottom: 24px;
+  max-width: 100%;
+}
+nav ul li {
+  flex: 1;
+  max-width: 100px;
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 15px;
+  font-family: 'Source Sans Pro';
+  height: 44px;
+  line-height: 44px;
+  color: #849097;
+  transition: box-shadow 0.33s ease-out, color 0.33s ease-out;
+  -webkit-transition: box-shadow 0.33s ease-out, color 0.33s ease-out; /* Safari */
+}
+nav ul li:not(.active) {
+  background-color: white !important;
+}
+nav ul li.active {
+  box-shadow: 0 0 7px rgba(132, 144, 151, 0.3);
+  color : white;
+  border-radius: 2px;
+}
+h3 {
+  font-size: 22px;
+  margin: 0;
+}
+h3 small {
+  font-size: 17px;
+  display: block;
+  color: #8f8f8f;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+p {
+  /*border-top: 1px solid #e4ecef;*/
+  padding-top: 1em;
+  margin: 1em 0;
+}
+main {
+  position: relative;
+  height: 630px;
+  width: 300px;
+}
+.description {
+	height: 200px;
+	border: 1px solid red;
+	margin-bottom: 0px;
+	
+}
+main img {
+  position: relative;
+  width: 100%;
+  margin: 0px;
+  border: 1px solid blue;
+}
+.text {
+	border: 1px solid yellow;
+}
+.person {
+	border: 1px solid green;
+}
+#NKorea {
+    position: relative;
+	z-index: 1;
+	top: 170px;
+	left: 50px;
+  }
+  #SKorea {
+    position: relative;
+	top: 320px;
+	left: 80px;
+  }
+
+@media screen and (min-width: 450px) {
+  main img {
+    /*float: right;*/
+    width: 55%;
+  }
+  h3 {
+    padding-top: 38px;
+  }
+  p {
+    /*width: 45%;*/
+  }
+  main {
+	  height: auto;
+  }
+}
+
+footer {
+  clear: both;
+}
+
+
+/* Input range */
